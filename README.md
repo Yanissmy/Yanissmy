@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="[URL_DE_VOTRE_PHOTO_OU_AVATAR]" alt="Votre Nom" width="150" style="border-radius: 50%;">
     <h1>👋 Salut, je suis Yanis Smayou !</h1>
     
     <h3>Étudiant en BTS SIO (Services Informatiques aux Organisations)</h3>
