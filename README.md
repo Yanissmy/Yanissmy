@@ -16,7 +16,7 @@
 | Domaine | Détails |
 | :--- | :--- |
 | **Formation** | BTS SIO option SISR |
-| **École** | [Lycée Saint-bénigne (Dijon) |
+| **École** | Lycée Saint-bénigne (Dijon) |
 | **Compétences SISR Clés** | Administration de serveurs [Windows Server / Linux], virtualisation [Virtual Box], scripting [Bash/PowerShell]. |
 | **Objectif de Carrière** | Spécialisation en Cybersécurité (Analyste SOC, Pentester junior, Administrateur Sécurité). |
 
