@@ -1,11 +1,10 @@
 <div align="center">
     <img src="[URL_DE_VOTRE_PHOTO_OU_AVATAR]" alt="Votre Nom" width="150" style="border-radius: 50%;">
-    <h1>👋 Salut, je suis [Votre Prénom Nom] !</h1>
+    <h1>👋 Salut, je suis Yanis Smayou !</h1>
     
-    <h3>[Votre Titre ou Votre Domaine d'Étude/Expertise]</h3>
-
+    <h3>Étudiant en BTS SIO (Services Informatiques aux Organisations)</h3>
     <p>
-        Actuellement en [Votre niveau d'étude, ex: L3 Informatique, Master 1 Ingénierie], je suis un développeur passionné par la création de solutions élégantes et performantes. Mon objectif est de transformer les idées complexes en applications fonctionnelles et conviviales.
+        Actuellement en 1ère année, je me spécialise dans les infrastructures, les systèmes et les réseaux (option SISR). Mon objectif professionnel est de m'orienter vers la **Cybersécurité** et l'administration de systèmes d'information.
     </p>
 </div>
 
@@ -13,47 +12,49 @@
 
 ---
 
-## 🛠️ Technologies et Compétences
+## 🛡️ Mon Parcours et Mes Objectifs
 
-Je travaille principalement avec l'écosystème suivant. Cette section montre un aperçu rapide de mes outils de prédilection.
-
-| Catégorie | Compétences & Outils |
+| Domaine | Détails |
 | :--- | :--- |
-| **Langages de Programmation** | [Python, JavaScript, Java, C++, Swift, etc.] |
-| **Frontend** | [React, Vue.js, Angular, HTML5, CSS3 (Sass/Tailwind)] |
-| **Backend** | [Node.js (Express), Django/Flask (Python), Spring Boot (Java)] |
-| **Bases de Données** | [PostgreSQL, MongoDB, MySQL, Firebase] |
-| **Outils & DevOps** | [Git, Docker, Kubernetes, CI/CD, VS Code, Linux] |
+| **Formation** | BTS SIO option SISR |
+| **École** | [Lycée Saint-bénigne (Dijon) |
+| **Compétences SISR Clés** | Administration de serveurs [Windows Server / Linux], virtualisation [Virtual Box], scripting [Bash/PowerShell]. |
+| **Objectif de Carrière** | Spécialisation en Cybersécurité (Analyste SOC, Pentester junior, Administrateur Sécurité). |
 
 <br>
 
-<div align="center">
-    <p>🚀 Mes technologies de prédilection :</p>
-    [INSÉREZ VOS BADGES DE COMPÉTENCES ICI]
-</div>
+## ⚙️ Compétences Techniques (Orientées Cybersécurité / Infrastructure)
+
+| Catégorie | Compétences & Outils |
+| :--- | :--- |
+| **Systèmes d'Exploitation** | Linux (Debian, Ubuntu), Windows Server, Windows 10/11 |
+| **Scripting & Automation** | [Bash, PowerShell, Python (pour les scripts d'audit)] |
+| **Réseaux** | Configuration TCP/IP, Routage, Subnetting, Outils d'analyse (Wireshark) |
+| **Virtualisation** | VirtualBox |
+| **Outils Sécurité (Apprentissage)** | [ A venir ] |
+| **Bases de Données** | MySQL, SQL Server |
+| **Versionning** | Git, GitHub, Azure Dev Ops |
 
 <br>
 
 ---
 
-## 🎯 Projets Épinglés (Highlights)
+## 🧪 Projets et Initiatives Personnelles (À Construire !)
 
-Découvrez ci-dessous quelques-uns de mes projets les plus récents ou les plus représentatifs de mes compétences :
+Actuellement, je me concentre sur l'acquisition de bases solides en infrastructure réseau.
 
-### 1. [Nom du Projet Principal]
-* **Description :** [Brève description du projet : ce qu'il fait et quel problème il résout.]
-* **Technologies Clés :** [Liste courte : ex: React, Node.js, MongoDB.]
-* [Lien vers le dépôt]([URL_DU_DEPOT_PROJET_PRINCIPAL]) | [Lien vers la démo (si déployé)]([URL_DE_LA_DEMO])
 
-### 2. [Nom du Second Projet]
-* **Description :** [Description du projet.]
-* **Technologies Clés :** [Liste courte : ex: Python, Pandas, Matplotlib.]
-* [Lien vers le dépôt]([URL_DU_DEPOT_SECONDAIRE])
+<br>
 
-### 3. [Nom d'un Projet Académique/Personnel]
-* **Description :** [Description du projet.]
-* **Technologies Clés :** [Liste courte : ex: C++, OpenGL.]
-* [Lien vers le dépôt]([URL_DU_TROISIEME_DEPOT])
+---
+
+## 💡 Mon Engagement pour la Cybersécurité
+
+Pour atteindre mon objectif dans la sécurité, je poursuis un apprentissage continu :
+
+* **Plateformes d'Entraînement :** Je m'entraîne régulièrement sur [TryHackMe / Root-Me] pour développer mes compétences pratiques en Hacking Éthique.
+* **Certifications Visées :** Je prépare actuellement les bases pour des certifications comme le [CyberOps Associate de Cisco.com].
+* **Veille Technologique** Je suis de près l'actualité cybersécurité grâce à des outils comme [Feedly ou X].
 
 <br>
 
@@ -61,30 +62,5 @@ Découvrez ci-dessous quelques-uns de mes projets les plus récents ou les plus 
 
 ## 🤝 Contact & Réseaux
 
-Je suis toujours ouvert à l'échange sur des projets innovants, des opportunités de stage, ou simplement pour discuter de technologie. N'hésitez pas à me contacter !
-
-* 📧 **Email Professionnel :** [Votre.Email@example.com]
-* 💼 **LinkedIn :** [Lien vers votre profil LinkedIn]
-* 🔗 **Portefeuille Personnel (si existant) :** [Lien vers votre site web]
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[VOTRE_NOM_UTILISATEUR]&show_icons=true&theme=radical" alt="Statistiques GitHub" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[VOTRE_NOM_UTILISATEUR]&theme=radical" alt="GitHub Streak" />
-</div>## Hi there 👋
-
-<!--
-**Yanissmy/Yanissmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📧 **Email Professionnel :** [yanis.smayou@saint-benigne.fr]
+* 💼 **LinkedIn :** [https://www.linkedin.com/in/yanis-smayou/]
